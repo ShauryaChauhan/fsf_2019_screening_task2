@@ -1,7 +1,7 @@
 # fsf_2019_screening_task2
 FOSSEE FELLOWSHIP 2019 - PYTHON SCREENING TASK 2
 
-TASK DESCRIPTION :
+# TASK DESCRIPTION :
 User should be able to:
 
 1. Load a csv file using ‘Load’ option available under “File” menu
@@ -28,7 +28,7 @@ User should be able to:
 10.Save the plot as .png file using ‘Save as png’ option under “File” menu.
 
 
-REQUIREMENTS:
+# REQUIREMENTS:
 
 1. Python
 
@@ -36,7 +36,7 @@ REQUIREMENTS:
 
 3. Matplotlib
 
-INSTALLATION:
+# INSTALLATION:
 
 1. You have Python version >= 3.5 installed
 
